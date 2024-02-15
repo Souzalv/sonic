@@ -1,0 +1,27 @@
+body{
+    background-image: url(imagens/greenhill1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+
+.blackbox{
+    margin: 0;
+    height: 808px;
+    width: 1300px;
+    background-color: #201c1c;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.imagem1 img{
+    margin-top: 10px;
+    height: 400px;
+}
